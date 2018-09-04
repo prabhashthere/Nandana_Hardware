@@ -1,2 +1,2 @@
 # Nandana_Hadware
-A Software for a Hardware
+A Software for a Hardware Shop
